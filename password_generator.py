@@ -9,7 +9,7 @@ def passwd():
         #this prints passwords generates 18 character long passwords
 
 i = int(input("How many strong passwords you wanna get? ")) #how many passwd u want 
-for sayi in range(i):
+for u in range(i):
         passwd()
 
         
